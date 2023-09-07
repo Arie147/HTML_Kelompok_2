@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport"
+        content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Latihan Sudi Kasus 1 Septi</title>
+</head>
+<body>
+<h1>Curriculum Vitae</h1>
+<img src="img/1.JPG" alt="septi" width="120px" height="80px">
+<p> My name is Septi Dewi Yuliana</p>
+<p>A student from the Department of Curriculum and Educational Technology at Semarang State University.
+  Experienced in designing education & training programs, developing learning media such as modules,
+  instructional videos, and interactive learning materials. Proficient in using cameras and operating design
+  software such as CorelDraw and Canva. Quick learner and currently seeking opportunities to enhance skills in
+  the field of design. </p>
+<form>
+  <table border="1">
+    <tr>
+      <td width="150px"> Education</td>
+      <td width="400px">
+      <ul>
+        <li>Bachelors of Kurikulum dan Teknologi Pendidikan, Universitas Negeri Semarang</li>
+        <li>Matematikan dan Ilmu Pengetahuan Alam, SMA Negeri Susukan</li>
+      </ul>
+      </td>
+    </tr>
+    <tr>
+      <td width="150px"> Organizations</td>
+      <td width="400px">
+        <ol type="1">
+          <li> HIMA Teknologi Pendidikan</li>
+          <li> Youth Creativity</li>
+        </ol>
+      </td>
+    </tr>
+    <tr>
+      <td width="150px"> Certificates</td>
+      <td width="400px">
+        <ul>
+          <li>2nd Winner Poster Design</li>
+        </ul></td>
+    </tr>
+
+
+  </table>
+</form>
+<a href="https://instagram.com" target="_blank">Instagram saya</a>
+<br> <a href="https://tiktok.com">Tik tok saya</a>
+</body>
+</html>
